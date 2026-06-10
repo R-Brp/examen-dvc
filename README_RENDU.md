@@ -4,11 +4,12 @@
 
 Nom: Beaurepere
 Prenom: Romane
-Email: romane.beaurepere@example.com
+Email: beaurepere.romane@gmail.com
 
 ## Lien du depot
 
 GitHub: https://github.com/R-Brp/examen-dvc
+DagsHub: https://dagshub.com/R-Brp/examen-dvc
 
 ## Livrables completes
 
